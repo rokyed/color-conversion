@@ -11,10 +11,13 @@
    		"color-conversion:selection-to-hsla",
     	"color-conversion:selection-to-hex"]
   },
-  "repository": "https://github.com/atom/color-conversion",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
+  },
+  "repository": {
+	"type": "git",
+	"url": "https://github.com/rokyed/color-conversion.git"
   },
   "dependencies": {
   }
