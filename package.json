@@ -2,7 +2,7 @@
   "name": "color-conversion",
   "author": "Andrei Bazavan (rokyed)",
   "main": "./lib/color-conversion",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A short description of your package",
   "keywords": [
   ],
