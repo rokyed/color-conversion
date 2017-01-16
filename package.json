@@ -1,0 +1,21 @@
+{
+  "name": "color-conversion",
+  "author": "Andrei Bazavan (rokyed)",
+  "main": "./lib/color-conversion",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": ["color-conversion:selection-to-rgba",
+   		"color-conversion:selection-to-hsla",
+    	"color-conversion:selection-to-hex"]
+  },
+  "repository": "https://github.com/atom/color-conversion",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
